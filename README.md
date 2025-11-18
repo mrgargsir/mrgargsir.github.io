@@ -1,2 +1,100 @@
-# mrgargsir.github.io
-HEWP Toolkits – Third-Party Utility
+# HEWP Excel ADDins by mrgargsir
+Disclaimer : We are not official HEWP or Not authorized by Government by any means.
+
+Haryana Engineering Works Portal 
+HEWP ESTIMATE , MESSURMENT BOOK TEMPLATE, HSR 2023 WITH LATEST AMENDMENTS, REAL TIME SEARCH ITEM NO., AUTO UNIT CONVERTER, RATE, RATE TYPE, UNIT FETCHER, AUTO DATA COPY PASTE TO TEMPLATE , AUTO INTELLIGENT DATA ARRANGED IN TEMPLATES WITH 0% ERROR CHANCE, TEMPLATE EXCEL UPLOADER TO PORTAL, CHROME BOOKMARKS LINK FOR SHORTCUTS ON WEBSITE - SAVE LOTS OF TIME, SEARCH BAR FOR HSR ITEM NUMBER AND SEARCH BAR FOR TENDER And All DropDown ON HEWP PORTAL via Chrome Extension, ONE CLICK INSTALLER. Available for Both CONTRACTOR AND EMPLOYE LOGINS.
+
+## 📦 Download
+
+Check for Updated HEWP Tools Utility Available : [Click here for Latest Version](https://mrgargsir.github.io/HEWP-Excel-Addins/)
+
+# New installer
+Just Download and install onlineinstaller.exe and follow on screen instructions. 
+
+---
+
+# 1. 🧩 HEWP Excel ADDins – Complete Toolkit for Haryana Engineering Works Portal (HEWP) by mrgargsir
+
+**HEWPExcelADDins** is an all-in-one **Excel Add-In**  designed to streamline work on the **Haryana Engineering Works Portal (HEWP)**. It brings powerful automation, smart templates, and web shortcuts—making the workflow seamless for both **Contractors** and **Employees**.
+
+#### ✅ Core Features (in Excel Ribbon):
+
+* **📊 HEWP Estimate & Measurement Book Templates** – Preloaded and structured Excel formats.
+* **🔍 Real-Time Search** – Instantly find HSR items by number or description.
+* **📥 Auto Item Fetcher** – Auto-fill **Description, Rate, Rate Type, Unit** from HSR data.
+* **🧱 Auto Material Quantity Generator** - Instantly Get Consumption Details Table.
+* **📌 Smart Copy-Paste** – Automatically copy Excel data into the correct template.
+* **⬆️ Auto Upload to HEWP Portal** - Auto Upload Bill (BOQ), Rough Cost Estimate, Detailed Estimate To Portal.
+* **⬇️ Download Prefilled Data** -  Download from Portal and make compassion summary with your Excel Bill (BOQ)
+* **❌ Empty Bill on Portal** - If You need to remove Bill data, Remove with it, it will auto Remove all items data for a tender.
+* **🧠 Intelligent Data Arrangement** – Minimizes user input errors, ensuring **0% chance of misalignment**.
+* **👍 Special Log Window For Excel Error to fix** - Your Data will be With 0% Error.
+---
+
+### #### 🌐 Excel Enhancements Features in (First Tab: **`E. TOOLS`**)
+
+**📤 One-Click TOOLS** – A comprehensive Excel utility tab for generating bills, estimates, and engineering documents.
+
+1. **Jump to any Sheet** – Quickly navigate between All worksheet in a workbook with many sheets. So Useful When you have lots of worksheet. 
+2. **Refresh Sheet** – Instantly refresh the Excel in case Excel becomes unresponsive sometimes.
+3. **Insert Row** – Insert any number of Entire rows at the selected cell with ease.
+4. **Copy Current Worksheet** – Create duplicates of the active worksheet next to Original Worksheet and Auto Select Duplicate sheet quickly .
+5. **Feet ⇄ Meter Converter** – Convert  imperial to metric unit in all Selected Cells with one click.
+6. **Meter ⇄ Feet Converter** – Convert  metric to imperial unit in all selected cells with one click.
+7. **Meter ⇄ Kg Converter** – Convert  Meter to Kilogram unit for all selected cells with One click. it's for Manual Comparison if you want sometimes.
+8. **Toggle Sign** – Instantly switch selected values between positive and negative. Useable When You want Deduction Data.
+9. **Formulas To Constant** – Convert formulas to static values in all selected cells.
+10. **Multiply and Get Quantity** – Multiply dimensions (Nos. x length × breadth × depth) with advance formula.
+11. **Total Quantity with intelligent Unit Converter** – It will do auto Total of One item number's quantities and put in below row then auto convert to metric units where required and put in below row of total. Also auto convert to steel kg if required.
+12. **Auto Rate & Description Fetcher** – Automatically pull Unit, Rates, Rate Type, and Descriptions from Latest HSR 2023 (Haryana Schedule of Rates) and Amendments and insert for Each item.
+13. **Amount Calculator** – Compute amounts by multiplying rate × quantity. Also auto-calculates GST, contingency, and grand total with full sheet formatting. Apply sr number to each item. Prepare Bill or Estimate in Good Format.
+14. **Steel Weight Calculator** – Manually Convert running meters Rebar Length to kilograms based on entered diameter and put this value below of selected total row cell.
+15. **Auto Round Off** – Dynamically apply round off formula to each selected cell. Existing Round off auto-update on apply.
+16. **Steel Summary Generator** – Create a Dia Wise Steel Consumption summary in Kg. at bottom of Bill/Estimate.
+17. **Abstract Bill Summary** - Generate a complete abstract Bill or estimate summary in a new worksheet, next to active sheet.
+18. **Bill Summary** – Generate a detailed summary in a new worksheet and If a portal-downloaded summary is opened, it will auto fetch ,compares and highlights differences. it also works for Variation with DNIT QTY.
+19. **Quantity of Materials Summary** – Generate a complete Material Consumption Summary in bottom of Bill/Estimate. A Detailed Material Quantity Table.
+
+---
+
+### #### 🌐 Web Enhancements Features in (Second Tab: **`WebManual`**)
+
+**📤 One-Click Uploader** – Interact directly with the HEWP Portal from Excel.
+
+1. **Auto Login to HEWP Portal** – Securely log in with saved credentials and Keep Login details for future fast login, login data is completely saved in your hard drive excel file. You can verify it anytime.
+2. **Close Chrome & Clean Resources** – Closes browser sessions and frees memory.
+3. **Copy Data to HEWP Templates** – Automatically convert unit to Meter if required and transfers data into the HEWP Excel template.
+4. **HSR Item Number Selector** – Select HSR item numbers on HEWP Portal for filling or uploading bill or estimate data.
+5. **Pdf** – it will Make Pdf of Selected cells, attach and Upload With Manual Entry.
+6. **Upload Template to Portal** – Upload your completed template directly.
+7. **Direct Data Entry** – Skip the template; enter data directly into the portal Table.
+8. **Emp Item Number Selector** – Select item numbers and Rate Type for Employ id on Portal for filling or uploading.
+9. **Website Data Scraper** – Download completed bill data from the portal in Excel Format, including a summary sheet.
+10. **Delete Bill Data** – Remove all previously filled bill data items in one click on portal.
+11. **Auto Upload Full Bill/Template** – Automatically upload The Whole Bill for all Users at one click.
+---
+
+#### 🚀 Additional Highlights:
+
+* **Available for both Contractor & Employee**
+* **One-click installer**
+* **Simple setup with zero technical skills required**
+---
+
+
+# 2. **MRGARGSIR Chrome Extension (Free with Addins - No Extra Charges)**  
+
+🚀 **A productivity extension for HEWP (Haryana Engineering Works Portal) automation.**  
+📌 **Developer:** **MRGARGSIR**  
+
+## **🔧 Main Features of ChromeExtension**  
+
+**Smart Tender Search** – Enhanced dropdown search for tenders.
+**Toggle All Checkbox.**  
+**🎯 Enter Button Fixes** (Pressing Enter button will not clear the form on hewp portal anymore)  
+**🆕 Volume Increase** (Volume increase features when low volume media is problem)  
+**✅ Dark Mode** (Enable Dark mode on all websites)
+
+
+
+**Thank you for using MRGARGSIR Tools!** 🚀
